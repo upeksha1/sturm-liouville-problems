@@ -1,7 +1,7 @@
 # sturm-liouville-problems
 
  Author: Upeksha Perera (April 2019)
- Supplementary Material for the article titled
+ Supplementary Material (Matlab codes) for the article titled
  "Solutions of Direct and Inverse Even-order Sturm-Liouville problems using Magnus expansion"
  by Upeksha Perera and Christine Böckmann
  Correspondence: upeksha@kln.ac.lk; Department of Mathematics, University of Kelaniya, 11600 Kelaniya, Sri Lanka;
